@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\Programming\Semester 5\Operating systems\MemoryAllocator\MemoryAllocator\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+G:\Programming\Semester 5\Operating systems\MemoryAllocator\MemoryAllocator\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+G:\Programming\Semester 5\Operating systems\MemoryAllocator\MemoryAllocator\main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MemoryAllocator.vcxproj -> G:\Programming\Semester 5\Operating systems\MemoryAllocator\Debug\MemoryAllocator.exe

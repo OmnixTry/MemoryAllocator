@@ -41,7 +41,7 @@ The function deletes the data of the block, flags it as the 'free memory' block 
 memoryBlock = createBlock(500);
 ```
 ##### Console Output
-place img here
+![Create Block](img/blockCreated.png)
 
 #### Allocate 10 bytes of memory
 ##### Code Example
@@ -49,7 +49,7 @@ place img here
 void* x = mem_alloc(10);
 ```
 ##### Console Output
-place img here
+![Allocate 10 bytes](img/10allocated.png)
 
 #### Realocate the block from 10 to 20 bytes
 ##### Code Example
@@ -57,7 +57,7 @@ place img here
 void* x = mem_realloc(x, 20);
 ```
 ##### Console Output
-place img here
+![Realocate memory](img/reallocated.png)
 
 #### Free the block of memory
 ##### Code Example
@@ -65,4 +65,4 @@ place img here
 mem_free(x);
 ```
 ##### Console Output
-place img here
+![Free Memory](img/blockCreated.png "Free the memory")
